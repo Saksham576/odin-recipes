@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(40, 151, 155);
+}
+.orange {
+    color: hsl(25, 85%, 47%);
+}
+.red{
+    color: rgb(233, 43, 43)
+}
+.cursive {
+    font-family: 'Cursive','Times New Roman',sans-serif;
+}
+li {
+    color: white;
+    margin-top: 10px;
+}
+h1,h2 {
+    color: lightgreen;
+}
+img {
+    margin: 10px 0px 0px 0px;
+}
